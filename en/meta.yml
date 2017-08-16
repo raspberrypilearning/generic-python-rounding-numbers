@@ -2,12 +2,14 @@ title: Rounding a number with Python
 hero_image: images/banner.png
 description: Find out how to round a number
 original_url:
-theme: cc-prototype
+theme: red
 duration: 1 # 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: false
-interests: ""
+interests:
+curriculum:
+site areas:
 technologies: "python"
 steps:
   - title: Rounding a number
