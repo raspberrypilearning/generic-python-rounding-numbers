@@ -1,6 +1,6 @@
 There are a few ways that what we think of as 'a number' can be stored as a variable in Python.
 
-Let's start with the most common type that you're likely to need to round: `a float`.
+Let's start with the most common type that you're likely to need to round: a `float`.
 
 Python floats are real numbers that include a decimal point. For example: 234.8, 60.0, 1.23456.
 
@@ -64,4 +64,4 @@ If we you want to alter the number of decimal places then just change the modifi
 >>>
 ```
 
-This can be useful if you have a program that is processing floats with a high level of precision that you want to retain, but you want to neatly present one the values as a string output, perhaps to write it to a log file or to display it on a GUI. 
+This can be useful if you have a program that is processing floats with a high level of precision that you want to retain, but you want to neatly present one the values as a string output, perhaps to write it to a log file or to display it on a GUI.
